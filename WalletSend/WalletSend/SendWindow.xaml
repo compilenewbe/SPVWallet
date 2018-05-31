@@ -1,0 +1,19 @@
+﻿<Window x:Class="Wallet.SendWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wallet"
+        mc:Ignorable="d"
+        Title="Wallet" Background="LightBlue" Height="330" Width="700" ResizeMode="NoResize">
+    <Grid>
+        <TextBox Name="destination"  HorizontalAlignment="Left" Margin="150,50,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MinWidth="500" MaxWidth="700" Height="30" />
+        <TextBox Name="fee"  HorizontalAlignment="Left" Margin="150,100,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MinWidth="500" MaxWidth="700" Height="30"/>
+        <TextBox Name="money"  HorizontalAlignment="Left" Margin="150,150,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MinWidth="50" MaxWidth="700" Height="30"/>
+        <Label Content="Destination" HorizontalAlignment="Left" Height="30" Margin="10,50,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Fee" HorizontalAlignment="Left" Height="30" Margin="10,100,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Amount" HorizontalAlignment="Left" Height="30" Margin="10,150,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button Name="Send_Money" Click="Send_Money_Click" Content="Send Money" Background="Silver"  HorizontalAlignment="right" Height="30" Width="100" Margin="0,220,44,30"></Button>
+
+    </Grid>
+</Window>

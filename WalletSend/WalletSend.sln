@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wallet", "WalletSend\Wallet.csproj", "{27BDF710-8514-4AAA-BF9C-DB8AEF11B44D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27BDF710-8514-4AAA-BF9C-DB8AEF11B44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BDF710-8514-4AAA-BF9C-DB8AEF11B44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BDF710-8514-4AAA-BF9C-DB8AEF11B44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BDF710-8514-4AAA-BF9C-DB8AEF11B44D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F09B990-93DD-493C-8691-FD5CE691D4FD}
+	EndGlobalSection
+EndGlobal

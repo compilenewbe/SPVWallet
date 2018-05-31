@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\WalletSend\WalletSend\WalletSend\obj\Debug\SendWindow.g.cs
+C:\Users\Administrator\source\repos\WalletSend\WalletSend\WalletSend\obj\Debug\Wallet.g.cs
+C:\Users\Administrator\source\repos\WalletSend\WalletSend\WalletSend\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\WalletSend\WalletSend\WalletSend\obj\Debug\Wallet_MarkupCompile.cache
+C:\Users\Administrator\source\repos\WalletSend\WalletSend\WalletSend\obj\Debug\Wallet_MarkupCompile.lref
