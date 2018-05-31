@@ -49,10 +49,10 @@ namespace Wallet
             CurrentPath = Directory.GetCurrentDirectory();
             // Write the string to a file.
             
-            System.IO.StreamWriter file = new System.IO.StreamWriter(CurrentPath);
-            file.WriteLine(lines);
+            //System.IO.StreamWriter file = new System.IO.StreamWriter(CurrentPath);
+            //file.WriteLine(lines);
 
-            file.Close();
+            //file.Close();
 
 
         }

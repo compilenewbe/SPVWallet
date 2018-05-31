@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Code\WalletSend\WalletSend\WalletSend\obj\Debug\
+C:\Code\WalletSend\SPVWallet\WalletSend\obj\Debug\
 Wallet
 none
 false
 DEBUG;TRACE
-C:\Code\WalletSend\WalletSend\WalletSend\App.xaml
+C:\Code\WalletSend\SPVWallet\WalletSend\App.xaml
 3-941833358
 
-12-1947316858
-201412220416
+8785290334
+20-1375917068
 ImportPrivKey.xaml;SendWindow.xaml;MainWallet.xaml;
 
-True
+False
 
